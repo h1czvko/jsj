@@ -1,0 +1,6 @@
+﻿  源.c
+E:\cprogram\chengcv\dzy\hiczvko\hiczvko\源.c(94,9): warning C4101: “p”: 未引用的局部变量
+E:\cprogram\chengcv\dzy\hiczvko\hiczvko\源.c(90,39): warning C4101: “y”: 未引用的局部变量
+E:\cprogram\chengcv\dzy\hiczvko\hiczvko\源.c(90,36): warning C4101: “x”: 未引用的局部变量
+E:\cprogram\chengcv\dzy\hiczvko\hiczvko\源.c(93,9): warning C4101: “o”: 未引用的局部变量
+  hiczvko.vcxproj -> E:\cprogram\chengcv\dzy\hiczvko\x64\Debug\hiczvko.exe
